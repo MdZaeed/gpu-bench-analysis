@@ -1,0 +1,259 @@
+Index,KernelName,gpu-id
+0,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+1,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+2,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+3,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+4,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+5,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+6,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+7,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+8,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+9,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+10,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+11,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+12,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+13,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+14,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+15,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+16,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+17,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+18,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+19,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+20,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+21,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+22,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+23,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+24,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+25,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+26,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+27,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+28,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+29,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+30,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+31,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+32,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+33,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+34,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+35,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+36,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+37,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+38,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+39,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+40,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+41,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+42,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+43,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+44,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+45,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+46,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+47,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+48,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+49,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+50,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+51,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+52,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+53,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+54,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+55,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+56,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+57,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+58,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+59,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+60,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+61,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+62,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+63,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+64,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+65,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+66,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+67,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+68,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+69,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+70,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+71,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+72,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+73,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+74,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+75,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+76,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+77,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+78,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+79,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+80,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+81,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+82,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+83,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+84,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+85,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+86,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+87,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+88,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+89,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+90,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+91,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+92,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+93,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+94,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+95,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+96,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+97,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+98,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+99,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+100,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+101,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+102,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+103,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+104,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+105,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+106,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+107,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+108,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+109,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+110,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+111,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+112,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+113,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+114,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+115,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+116,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+117,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+118,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+119,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+120,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+121,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+122,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+123,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+124,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+125,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+126,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+127,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+128,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+129,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+130,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+131,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+132,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+133,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+134,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+135,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+136,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+137,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+138,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+139,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+140,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+141,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+142,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+143,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+144,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+145,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+146,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+147,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+148,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+149,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+150,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+151,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+152,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+153,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+154,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+155,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+156,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+157,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+158,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+159,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+160,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+161,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+162,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+163,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+164,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+165,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+166,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+167,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+168,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+169,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+170,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+171,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+172,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+173,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+174,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+175,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+176,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+177,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+178,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+179,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+180,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+181,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+182,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+183,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+184,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+185,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+186,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+187,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+188,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+189,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+190,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+191,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+192,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+193,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+194,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+195,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+196,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+197,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+198,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+199,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+200,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+201,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+202,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+203,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+204,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+205,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+206,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+207,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+208,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+209,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+210,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+211,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+212,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+213,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+214,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+215,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+216,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+217,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+218,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+219,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+220,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+221,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+222,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+223,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+224,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+225,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+226,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+227,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+228,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+229,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+230,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+231,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+232,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+233,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+234,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+235,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+236,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+237,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+238,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+239,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+240,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+241,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+242,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+243,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+244,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+245,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+246,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+247,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+248,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+249,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+250,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+251,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+252,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+253,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+254,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2
+255,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+256,"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",2
+257,"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",2

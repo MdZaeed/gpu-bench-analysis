@@ -1,0 +1,7 @@
+KernelName,Count,Sum(ns),Mean(ns),Median(ns),Pct
+"void stencil1d5pt_kernel<double>(double*, double const*, double const*, double const*, unsigned long, bool) ",19,56305647.0,2963455.1052631577,2961777.5,21.080029144279557
+"void triad_kernel<double>(double*, double const*, double const*, double const*, unsigned long, bool) ",19,54850118.5,2886848.3421052634,2880016.0,20.535100085914777
+"void stencil1d3pt_kernel<double>(double*, double const*, double const*, double const*, unsigned long, bool) ",19,50342407.0,2649600.3684210526,2648821.5,18.847477354326166
+"void scale_kernel<double>(double*, double const*, double const*, double const*, unsigned long, bool) ",19,47070242.5,2477381.1842105263,2465456.0,17.622425752932138
+"void read_kernel<double>(double*, double const*, double const*, double const*, unsigned long, bool) ",19,33184575.0,1746556.5789473683,1747215.0,12.423830386684497
+"void init_kernel<double>(double*, double const*, double const*, double const*, unsigned long, bool) ",23,25351228.0,1102227.3043478262,1180328.0,9.491137275862862

@@ -1,0 +1,3 @@
+KernelName,Count,Sum(ns),Mean(ns),Median(ns),Pct
+"void sumKernel<24, 1024>(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u> const*, int) ",86,2223177649.5,25850902.901162792,30190456.75,97.19589882975666
+"initKernel(HIP_vector_type<float, 4u>*, unsigned long) ",172,64138663.5,372899.2063953488,48640.0,2.804101170243348
